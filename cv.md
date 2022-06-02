@@ -1,5 +1,5 @@
 ## CURRICULUM VITAE  ##
-## Dolhou Viachaslau ![text discribe image] (image.png)
+## Dolhou Viachaslau ![text discribe image](image.png)
 ***
 * **phone:** +375296220541
 * **email:** <slawius-911@mail.ru> 
